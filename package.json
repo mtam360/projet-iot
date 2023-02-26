@@ -1,0 +1,10 @@
+{
+  "name": "mtam",
+  "description": "Il s'agit d'un bouton switch qui permet d'allumer et d'eteindre",
+  "dependencies": {
+    "node-red": "latest"
+  },
+  "scripts": {
+    "start": "node node_modules/node-red/red.js --userDir flows"
+  }
+}
